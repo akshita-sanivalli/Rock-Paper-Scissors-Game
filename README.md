@@ -54,4 +54,4 @@ The computer will randomly choose Rock, Paper, or Scissors and the winner will b
 
 ## Author
 
-Created while learning Python through the 100 Days of Code Python Bootcamp.
+Akshita
